@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidRoomPersistenceCRUD</string>
+    <string name="title_activity_main2">Employees</string>
+
+    <string name="hint_employee_name">Employee Name</string>
+    <string name="empty_not_saved_name">Employee not saved because it is empty.</string>
+
+    <string name="hint_employee_number">Employee Number</string>
+    <string name="empty_not_saved_number">Employee not saved because it is empty.</string>
+
+    <string name="hint_employee_phone">Employee Phone</string>
+    <string name="empty_not_saved_phone">Employee not saved because it is empty.</string>
+
+
+    <string name="button_save">Save</string>
+</resources>
